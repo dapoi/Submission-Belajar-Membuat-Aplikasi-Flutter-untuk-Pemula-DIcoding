@@ -15,3 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Aplikasi iMovie Submission Flutter Pemula Dicoding 
+
+Preview
+![image](https://user-images.githubusercontent.com/68842666/122964362-63162580-d3b1-11eb-9831-4c8e9ce2e9f2.png)
